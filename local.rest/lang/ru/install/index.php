@@ -1,0 +1,6 @@
+<?php
+
+$MESS['LOCAL_MODULE_REST_NAME'] = 'Local: REST';
+$MESS['LOCAL_MODULE_REST_DESCRIPTION'] = 'REST API на сайте (с авторизацией и без)';
+$MESS['LOCAL_MODULE_REST_PARTNER'] = 'Local';
+$MESS['LOCAL_MODULE_REST_PARTNER_WEBSITE'] = 'http://localhost:8080';
